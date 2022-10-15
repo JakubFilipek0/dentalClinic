@@ -1,4 +1,4 @@
-package com.pbs.dental.Repository;
+package com.pbs.dental.repository;
 
 import com.pbs.dental.model.Patient;
 import org.springframework.data.jpa.repository.JpaRepository;

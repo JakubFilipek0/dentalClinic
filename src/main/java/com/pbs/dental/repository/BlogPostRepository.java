@@ -1,4 +1,4 @@
-package com.pbs.dental.Repository;
+package com.pbs.dental.repository;
 
 import com.pbs.dental.model.BlogPost;
 import org.springframework.data.jpa.repository.JpaRepository;

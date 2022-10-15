@@ -1,4 +1,4 @@
-package com.pbs.dental.Service;
+package com.pbs.dental.service;
 
 import com.pbs.dental.model.Patient;
 import org.springframework.stereotype.Service;

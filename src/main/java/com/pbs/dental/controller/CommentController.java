@@ -1,12 +1,11 @@
 package com.pbs.dental.controller;
 
-import com.pbs.dental.Service.CommentService;
+import com.pbs.dental.service.CommentService;
 import com.pbs.dental.model.Comment;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.w3c.dom.stylesheets.LinkStyle;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.pbs.dental.Service;
+package com.pbs.dental.service;
 
-import com.pbs.dental.Repository.PatientRepository;
+import com.pbs.dental.repository.PatientRepository;
 import com.pbs.dental.model.Patient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

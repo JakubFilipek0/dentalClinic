@@ -1,8 +1,7 @@
 package com.pbs.dental.controller;
 
-import com.pbs.dental.Service.BlogPostService;
+import com.pbs.dental.service.BlogPostService;
 import com.pbs.dental.model.BlogPost;
-import org.apache.catalina.LifecycleState;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

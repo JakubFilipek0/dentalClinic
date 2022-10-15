@@ -1,6 +1,6 @@
 package com.pbs.dental.controller;
 
-import com.pbs.dental.Service.DentistService;
+import com.pbs.dental.service.DentistService;
 import com.pbs.dental.model.Dentist;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
